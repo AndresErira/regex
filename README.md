@@ -29,5 +29,7 @@ En este caso se argupara la seleccion de caracteres por las unidades de puntos q
 *[] dentro de los corchetes podemos agregar tantos simbolos como queramos seleccionar si queremos usar un caracter especial para poder escaparlo usamos el simbolo diagonal invertida ( \ ) de esta forma podemos usar el punto como caracter de busqueda y no de clase.
 
 * IMPORTANTE: la clase \d debe ser obligatoriamente mayuscula.
+# LOS DELIMITADORES
 
+* (*) el asterisco representa 0 o muchos elementos y automaticamente los agrupa.
     
